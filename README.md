@@ -4,7 +4,7 @@ This to-do app website is created using React.js.
 
 ## Live Link
 
-[link]("")
+[link]("https://fascinating-rabanadas-1e1e69.netlify.app/")
 
 ## Technologies Used
 
